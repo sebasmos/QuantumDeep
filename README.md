@@ -6,15 +6,15 @@
 1. Create environment with conda:
 
 ```
-conda create -n qdeep python=3.10 -y
-conda activate qdeep
+conda create -n QuantumVE python=3.10 -y
+conda activate QuantumVE
 ```
 
 2. Install dependencies
 
 ```
-git clone https://github.com/sebasmos/qdeep.git
-cd QuantumDeep
+git clone https://github.com/sebasmos/QuantumVE.git
+cd QuantumVE
 pip install -r requirement.txt
 ```
 
@@ -23,7 +23,7 @@ pip install -r requirement.txt
 1. Folder `Focker-Plank-Solution` contains the Fokker-Planck which examplifies the one-dimensional Fokker-Planck equation, including parameter inference, numerical spectrum calculation with varied boundary conditions, and numerical simulation on finite domains. Tutorials under Focker-Plank Solution folder where inspired by [juliankappler](https://github.com/juliankappler/fokker-planck)
 
 
-1.  `q_Net` contains the implementation of audio classification via vector embeddings using qiskit. See Q_Net [docs](https://github.com/sebasmos/QuantumVE/blob/main/q_Net/README.md) for more details on VE generation. This method is 
+1.  `q_Net` contains the implementation of audio classification via vector embeddings using qiskit. See Q_Net [docs](https://github.com/sebasmos/QuantumVE/blob/main/q_Net/README.md) for more details on VE generation. 
 
 
 ## Papers
