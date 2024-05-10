@@ -1,4 +1,4 @@
-# # Quantum Vector Embeddings (QuantumVE) 
+## Quantum Vector Embeddings (QuantumVE) 
 
 
 ### 🔧Install environment
@@ -23,7 +23,7 @@ pip install -r requirement.txt
 1. Folder `Focker-Plank-Solution` contains the Fokker-Planck which examplifies the one-dimensional Fokker-Planck equation, including parameter inference, numerical spectrum calculation with varied boundary conditions, and numerical simulation on finite domains. Tutorials under Focker-Plank Solution folder where inspired by [juliankappler](https://github.com/juliankappler/fokker-planck)
 
 
-1.  `q_Net` contains the implementation of audio classification via vector embeddings using qiskit. See Q_Net [docs](https://github.com/sebasmos/QuantumVE/blob/main/q_Net/README.md) for more details on VE generation.
+1.  `q_Net` contains the implementation of audio classification via vector embeddings using qiskit. See Q_Net [docs](https://github.com/sebasmos/QuantumVE/blob/main/q_Net/README.md) for more details on VE generation. This method is 
 
 
 ## Papers
@@ -61,6 +61,9 @@ pip install qiskit numpy jupyterlab matplotlib qiskit-ibmq-provider
 
 ```
 
+## Notes
+
+Q_Net was sponsored by Google Cloud Research Credits and serves as baseline for [Qubico](https://github.com/Qubico-Hack)
 
 ## License
 
