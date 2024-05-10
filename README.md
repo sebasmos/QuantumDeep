@@ -20,12 +20,10 @@ pip install -r requirement.txt
 
 ### Contribute
 
-1. Folder `Focker-Plank-Solution` contains the Fokker-Planck which examplifies the one-dimensional Fokker-Planck equation, including parameter inference, numerical spectrum calculation with varied boundary conditions, and numerical simulation on finite domains. This module is invaluable for analyzing diverse phenomena governed by the Fokker-Planck equation, enhancing research across scientific and engineering disciplines. It draws inspiration from the repository by Julian Kappler at https://github.com/juliankappler/fokker-planck/tree/main.
-
-Tutorials under Focker-Plank Solution folder where inspired by [juliankappler](https://github.com/juliankappler/fokker-planck)
+1. Folder `Focker-Plank-Solution` contains the Fokker-Planck which examplifies the one-dimensional Fokker-Planck equation, including parameter inference, numerical spectrum calculation with varied boundary conditions, and numerical simulation on finite domains. Tutorials under Focker-Plank Solution folder where inspired by [juliankappler](https://github.com/juliankappler/fokker-planck)
 
 
-1.  `q_Net` contains the implementation of audio classification via vector embeddings using qiskit
+1.  `q_Net` contains the implementation of audio classification via vector embeddings using qiskit. See Q_Net [docs](https://github.com/sebasmos/QuantumVE/blob/main/q_Net/README.md) for more details on VE generation.
 
 
 ## Papers
