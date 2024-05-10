@@ -12,7 +12,6 @@ Quantum Classifier Vector Embedding framework using pretrained Neural network
 
 #### unsorted todo's
 
-Refined notes for better flow:
 
 1. **Hyperparameter Tuning for Support Vector Classifier (SVC)**: Conduct comprehensive hyperparameter tuning for SVC across various kernels and parameter settings to optimize model performance.
 
